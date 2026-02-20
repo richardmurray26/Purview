@@ -1,0 +1,16 @@
+Get-FileStatus -Path \\Finance\Projects\Project.docx
+
+FileName        : \\Finance\Projects\Project.docx
+IsLabeled       : True
+MainLabelId     : 074e257c-1234-1234-1234-34a182080e71
+MainLabelName   : Confidential
+SubLabelId      : d9f23ae3-1234-1234-1234-f515f824c57b
+SubLabelName    : Finance group
+LabelingMethod  : Privileged
+LabelDate       : 12/12/2016 12:24:36 PM
+IsRMSProtected  : True
+RMSTemplateId   : e6ee2481-1234-1234-1234-f744eacd53b0
+RMSTemplateName : Contoso - Confidential Finance
+RMSOwner        : John@Contoso.com
+RMSIssuer       : John@Contoso.com
+ContentId       : 4ca757d2-83bf-4ec3-b93b-c7fe9433bf33
