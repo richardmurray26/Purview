@@ -1,0 +1,1 @@
+Get-FileStatus -Path \\Finance\Projects\ | Where-Object {$_.MainLabelName -eq 'Confidential'} | Export-Csv C:\Reports\Report.csv
